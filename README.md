@@ -1,5 +1,5 @@
-# Flix_demo_03
-# Project 1 - *Name of App Here*
+Flix_demo_03
+# Project 1 - *Flix_Demo_03*
 
 **Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
